@@ -1,0 +1,13 @@
+streamlit
+streamlit-webrtc
+opencv-python
+numpy
+mediapipe
+keras
+tensorflow
+pillow
+requests
+streamlit-player
+fastapi
+uvicorn
+python-multipart
